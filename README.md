@@ -1,10 +1,6 @@
 # My-Projects
 List of my projects.
 
-
-### Project 2 : Reservia Website
-https://github.com/Adv13/Reservia-Website
-
 ### ShinyAgency Website
 https://github.com/Adv13/ShinyAgency-Website
 
