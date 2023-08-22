@@ -1,5 +1,5 @@
 # My-Projects
-List of my projects.
+List of my last projects.
 
 ### ShinyAgency Website
 https://github.com/Adv13/ShinyAgency-Website
